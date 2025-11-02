@@ -40,7 +40,7 @@ This project aims to develop a robust object tracking system capable of detectin
 |-------------|----------------|------|------------------|
 | Ahmed Adel Ahmed Mohamed | be5s1l | Project Lead & Detection Specialist | YOLO implementation, object detection pipeline, overall coordination |
 | Ebrahem Adel Ebrahem Ebrahem | Evil-Knight1 | Tracking Algorithm Developer | Optical flow implementation, Kalman filter, trajectory calculation |
-| Abdulrahman Ahmed Ahmed Mohamed Mohamed | oubai-code | Testing & Integration Specialist | Performance evaluation, UI development, documentation, testing |
+| Abdulrahman Ahmed Ahmed Mohamed | oubai-code | Testing & Integration Specialist | Performance evaluation, UI development, documentation, testing |
 
 ---
 
