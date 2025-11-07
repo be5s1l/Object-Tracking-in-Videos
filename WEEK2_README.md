@@ -109,8 +109,8 @@ Object-Tracking-in-Videos/
 - [x] IDs tracked across multiple frames
 - [x] Code is commented
 - [x] README written
-- [ ] Tested with 3 different videos
-- [ ] Code pushed to GitHub
+- [x] Tested with 3 different videos
+- [x] Code pushed to GitHub
 
 ---
 
